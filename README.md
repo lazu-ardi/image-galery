@@ -2,6 +2,8 @@
 
 simple gallery with images from the [Pixabay](https://pixabay.com/). Tailwind CSS is built into workflow with postcss.
 
+![Image Gallery](public/image-gallery.png)
+
 ## Usage
 
 Add your Pixabay API key to `.env` - Get your Pixabay API key [here](https://pixabay.com/api/docs/).
